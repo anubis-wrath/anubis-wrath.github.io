@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /agents
+
+Sitemap: https://anubis-wrath.github.io/sitemap.xml
